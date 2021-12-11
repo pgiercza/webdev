@@ -1,0 +1,63 @@
+.box {
+    width: 111px;
+    height: 111px;
+    margin: 50px;
+    background-color: aliceblue;
+}
+
+#big-box {
+    width: 666px;
+    height: 666px;
+    margin: 50px;
+    background-color: aliceblue;
+}
+
+.grey-box {
+    width: 111px;
+    height: 111px;
+    margin: 50px;
+    background-color: grey;
+}
+
+
+.small-box {
+    width: 20px;
+    height: 20px;
+    margin: 20px;
+    background-color: black;
+}
+
+/*
+*{
+    border: 3px solid red;
+}
+*/
+body {
+    margin: 0;
+}
+
+/*
+div{
+    border: 3px solid red;
+}*/
+/*
+
+.dwa{
+    border: 3px solid red;
+}
+*//*
+#jeden{
+    border: 3px solid red;
+}*/
+/*
+
+#big-box > div{
+    border: 3px solid red;
+}*//*
+#big-box div{
+    border: 3px solid red;
+}*/
+
+.trzy + div {
+    border: 3px solid red;
+}

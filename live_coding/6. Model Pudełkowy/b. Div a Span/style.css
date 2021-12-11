@@ -1,0 +1,26 @@
+#container {
+    width: 200px;
+    margin: auto;
+}
+
+.block1 {
+    background-color: red;
+    border: 3px solid black;
+
+}
+
+.block2 {
+    background-color: aqua;
+    border: 3px solid black;
+
+}
+
+.infile1 {
+    background-color: red;
+    border: 3px solid black;
+}
+
+.infile2 {
+    background-color: aqua;
+    border: 3px solid black;
+}

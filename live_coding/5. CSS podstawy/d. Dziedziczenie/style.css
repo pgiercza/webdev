@@ -1,0 +1,17 @@
+em {
+    color: aqua;
+}
+
+p {
+    color: #4eff38;
+}
+
+.box {
+    width: 500px;
+    height: 500px;
+    background-color: red;
+    margin: 100px;
+    border: 1px solid black;
+    padding: 20px;
+    box-sizing: border-box;
+}
