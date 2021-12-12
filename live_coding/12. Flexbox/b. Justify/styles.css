@@ -1,0 +1,12 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: coral;
+    margin: 5px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}

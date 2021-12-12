@@ -1,0 +1,32 @@
+#container {
+    width: 800px;
+    height: 800px;
+    background-color: lightblue;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+
+}
+
+.box {
+    height: 80px;
+    width: 80px;
+    background-color: red;
+    margin: 30px;
+}
+
+.big-box {
+    height: 600px;
+    width: 600px;
+    background-color: aquamarine;
+    margin: 30px;
+}
+
+
+.green-box {
+    height: 80px;
+    width: 80px;
+    background-color: yellow;
+    margin: 30px;
+}
